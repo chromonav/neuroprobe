@@ -39,6 +39,9 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 .coverage
+tweetmodel
+tweetmodel.syn1neg.npy
+tweetmodel.wv.syn0.npy
 .coverage.*
 .cache
 nosetests.xml
