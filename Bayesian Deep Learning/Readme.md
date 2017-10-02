@@ -1,6 +1,11 @@
 ### Types of uncertainty
-1. Aleatoric uncertainty
-2. Epistemic uncertainty
+#### 1. [Aleatoric uncertainty ](https://www.merriam-webster.com/dictionary/aleatoric)  
+Uncertainity with respect to data which data cannot explain.  
+#### There are further two types of Aleatoric Uncertanities:  
+1. Data Dependent Uncertainity
+2. Task Dependent Uncertainity
+
+#### 2. Epistemic uncertainty
 
 
 
