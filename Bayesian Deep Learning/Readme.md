@@ -2,8 +2,8 @@
 #### 1. [Aleatoric uncertainty ](https://www.merriam-webster.com/dictionary/aleatoric)  
 Uncertainity with respect to data which data cannot explain.  
 #### There are further two types of Aleatoric Uncertanities:  
-1. Data Dependent Uncertainity
-2. Task Dependent Uncertainity
+1. Data Dependent Uncertainty
+2. Task Dependent Uncertainty
 
 #### 2. Epistemic uncertainty
 
