@@ -1,2 +1,2 @@
 # neuroprobe
-My excursions in the world of ai ml and neural networks
+My excursions in the world of Artificial Neural Networks
