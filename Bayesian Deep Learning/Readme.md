@@ -6,7 +6,7 @@ Uncertainity with respect to data which data cannot explain.
 2. Task Dependent Uncertainty
 
 #### 2. Epistemic uncertainty
-
+Epistemic Uncertainty signifies sutuations whihc model was not trained to identify.
 
 
 
