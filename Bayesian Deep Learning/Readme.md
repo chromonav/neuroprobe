@@ -16,3 +16,13 @@ Epistemic Uncertainty signifies sutuations whihc model was not trained to identi
 [What My Deep Model Doesn't Know](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)  
 [What Uncertainties Do We Need in Bayesian Deep Learning
 for Computer Vision](https://arxiv.org/pdf/1703.04977.pdf)
+
+### Blogs
+
+- [Thomas Wiecki's Blog](http://twiecki.github.io/)
+
+- [Yarin Gal's Blog](http://mlg.eng.cam.ac.uk/yarin/blog.html)
+
+- [Shakir's Machine Learning Blog](http://blog.shakirm.com/)
+
+  ​
