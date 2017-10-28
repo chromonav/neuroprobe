@@ -1,4 +1,0 @@
-[submodule "DeepLearningTutorials"]
-	path = DeepLearningTutorials
-	url = https://github.com/chromonav/DeepLearningTutorials
-	branch = master
